@@ -14,5 +14,5 @@ Para clonar el repositorio, abre la terminal de Git (Git Bash o el símbolo del 
 cd C:\MisProyectos
 
 Luego ejecuta el siguente comando:
-git clone (https://github.com/picxflor/CRUD-DSAM.git)
+git clone https://github.com/picxflor/CRUD-DSAM.git
  
